@@ -1,0 +1,12 @@
+--atlas -f rgba8888 -z auto
+go_back.png
+header.png
+nintendo_loaded_deselected.png
+nintendo_loaded_selected.png
+nintendo_unloaded_deselected.png
+nintendo_unloaded_selected.png
+pretendo_loaded_deselected.png
+pretendo_loaded_selected.png
+pretendo_unloaded_deselected.png
+pretendo_unloaded_selected.png
+top.png
